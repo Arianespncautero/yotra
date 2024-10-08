@@ -15,12 +15,12 @@ header{
     margin: 20px 10px;
 }
 
-.cartao_conteudo:hover{
+.cartao__conteudo:hover{
     transform: scale(1.02);
 
 }
 
-.cartao_conteudo_resposta{
+.cartao__conteudo__resposta{
     display: none;
     text-align: center;
     padding: 20px;
