@@ -16,8 +16,7 @@ header{
 }
 
 .cartao__conteudo:hover{
-    transform: scale(1.02);
-
+    transform: scale(1.01);
 }
 
 .cartao__conteudo__resposta{
